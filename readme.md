@@ -6,4 +6,6 @@ https://ejemplocodigo.com/ejemplo-xampp-urls-amigables-con-htaccess-en-localhost
 
 https://www.bonaval.com/kb/sistemas-operativos/linux-sistemas-operativos/ejemplos-de-htaccess-que-todo-webmaster-deberia-conocer#11_proteger-el-archivo-htaccess
 
-https://www.josedomingo.org/pledin/2011/10/ejemplos-del-modulo-rewrite-en-apache-2-2/
+https://www.josedomingo.org/pledin/2011/10/ejemplos-del-modulo-rewrite-en-apache-2-2/  
+
+https://cursos.mejorcodigo.net/article/urls-amigables-con-php-15
